@@ -19,7 +19,7 @@ Funções principais:
 
   1 - PlayerSprte
   
-    - drawSprite = função que recebe os padrões de cor e dimensções da figura que o player será
+    - drawSprite = função que recebe os padrões de cor e dimensções da figura que o player vai ter.
     - getBound e isCollision = funções que se relacionam para informar se houve colisão ou não.
     - render = função de renderização dos graficos.
 
